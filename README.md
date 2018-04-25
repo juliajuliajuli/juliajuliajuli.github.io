@@ -11,7 +11,7 @@ hardware
 
 <h1>Opdracht</h1>
 
-<p>Op deze HTML pagina geef je een overzicht van wat je weet over computer hardware: over wat er in een PC zit en over wat voor randapparatuur je op de computer kunt aansluiten.</p>
+<p>Op deze HTML pagina krijg je een overzicht van wat je weet over computer hardware: over wat er in een PC zit en over wat voor randapparatuur je op de computer kunt aansluiten.</p>
 <p>Dit bestand <code>index.html</code> bevat de inhoud. Een file <code>style.css</code> in dezelfde map zorgt dat de inhoud mooi gepresenteerd wordt.</p>
 <p>Afbeeldingen bewaar je in een map images zodat je bijvoorbeeld een plaatje van de processor zo kunt laten zien: <br/>
 <code>&lt;img src="images/processor.jpg" alt="processor" title="processor" width="100px"&gt;</code></p>
