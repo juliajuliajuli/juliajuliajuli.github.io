@@ -1,5 +1,4 @@
 # juliajuliajuli.github.io
-hardware
 <!DOCTYPE html>
 <html lang="nl">
 <head>
