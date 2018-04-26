@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 # juliajuliajuli.github.io
 <html lang="nl">
 <head>
